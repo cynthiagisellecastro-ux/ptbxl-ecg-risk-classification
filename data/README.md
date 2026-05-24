@@ -1,0 +1,1 @@
+The full PTB-XL dataset is not stored in this repository because of file size. To reproduce the project, download the PTB-XL Electrocardiography Database from Kaggle or PhysioNet and place the files in this folder.
